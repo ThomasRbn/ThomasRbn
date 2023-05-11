@@ -2,3 +2,4 @@
 
 ### Currently working on
 ## ~ Hiram Burrows, a discord bot
+## ~ [hiramburrows.fr](https://hiramburrows.fr), no need to explain
