@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Currently studying computer sciences for 3 years now</h3>
 
-- 🔭 I’m currently working on [Basil](#) SOON
+- 🔭 I’m currently working on Basil, a Java introspector tool to create interactive UML diagrams
 
 - 🌱 I’m currently learning **Symfony**
 
