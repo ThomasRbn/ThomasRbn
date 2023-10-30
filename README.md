@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Currently studying computer sciences for 3 years now</h3>
 
-## 👨‍💻 All of my personnal projects are available at [Vaasistas](https://github.com/orgs/Vaasistas/repositories)
+👨‍💻 All of my personnal projects are available at [Vaasistas](https://github.com/orgs/Vaasistas/repositories)
 
 - 🔭 I’m currently working on [Basil](https://github.com/Vaasistas/Basil) (Part of Vaasistas), a Java introspector tool to create interactive UML diagrams
 
