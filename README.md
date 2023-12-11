@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Currently studying computer sciences for 3 years now</h3>
 
+# All of my personnal projects are available on my [GitLab account](https://gitlab.com/users/ThomasRbn/projects)
 - 🔭 I’m currently working on [Filament](https://github.com/ThomasRbn/Filament), a Symfony shop app
 
 
