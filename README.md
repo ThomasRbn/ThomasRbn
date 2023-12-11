@@ -3,9 +3,8 @@
 
 👨‍💻 All of my personnal projects are available at [Vaasistas](https://github.com/orgs/Vaasistas/repositories)
 
-- 🔭 I’m currently working on [Basil](https://github.com/Vaasistas/Basil) (Part of Vaasistas), a Java introspector tool to create interactive UML diagrams
+- 🔭 I’m currently working on [Filament](https://github.com/Vaasistas/Filament), a Symfony shop app
 
-- 🌱 I’m currently learning **Symfony**
 
 
 
